@@ -20,3 +20,5 @@ public:
         else return (double)(arr[arr.size()/2]+arr[arr.size()/2 - 1])/2;
     }
 };
+
+// Error
