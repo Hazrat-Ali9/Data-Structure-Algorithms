@@ -1,4 +1,4 @@
-# python swap nodes
+# python Swap Nodes
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head == None: return None
