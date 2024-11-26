@@ -12,3 +12,5 @@ class Solution:
                 curr.append(x)
                 self.generatePermu(curr, ans, nums)
                 curr.pop()
+                
+                # Permutation py 
