@@ -15,3 +15,5 @@ class Solution:
                 if not obstacleGrid[i][j]:
                     dp[i][j] = dp[i-1][j]+dp[i][j-1]
         return dp[n-1][m-1]
+    
+    # python using unique path
