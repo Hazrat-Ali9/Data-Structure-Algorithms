@@ -2,4 +2,4 @@
 
 # Software Engineering
 
-# Data Structure & Algorithm
+# Data Structure & Algorithms.
