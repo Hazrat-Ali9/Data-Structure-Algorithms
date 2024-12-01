@@ -22,7 +22,7 @@ class Node:
                     self.right.insert(data)
         else:
             self.data = data
-# findval method to compare the value with nodes
+# Findval method to compare the value with nodes
 
     def findval(self, lkpval):
         if lkpval < self.data:
