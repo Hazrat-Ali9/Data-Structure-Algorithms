@@ -14,3 +14,5 @@ if(result == -1):
     print("Element not found")
 else:
     print("Element found at index: ", result)
+    
+    # linear search
