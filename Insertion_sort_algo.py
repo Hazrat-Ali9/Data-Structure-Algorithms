@@ -14,3 +14,5 @@ data = [4,6,3,9,7]
 insertionSort(data)
 print('Sorted Array:')
 print(data)
+
+# insertion sort algo
