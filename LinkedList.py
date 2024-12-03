@@ -57,3 +57,5 @@ llist.add(10)
 llist.add(15)
 llist.delete(20)
 print(llist)
+
+# Linkelist
