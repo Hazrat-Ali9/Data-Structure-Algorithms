@@ -18,3 +18,4 @@ def selectionSort(itemList):
 el = [21,6,9,33,3]
 print(selectionSort(el))
 
+# selection sort 
