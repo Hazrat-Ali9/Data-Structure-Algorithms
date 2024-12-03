@@ -20,3 +20,5 @@ class Solution {
         return false;
     }
 }
+
+// search in roted 
