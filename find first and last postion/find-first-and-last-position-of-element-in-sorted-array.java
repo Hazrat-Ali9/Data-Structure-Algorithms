@@ -23,3 +23,5 @@ class Solution {
         return new int[]{f, s};
     }
 }
+
+// first and last
