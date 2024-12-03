@@ -9,3 +9,5 @@ class Solution {
         else return binaryExp(x*x, n/2);
     }
 }
+
+// Pow Binary Java
