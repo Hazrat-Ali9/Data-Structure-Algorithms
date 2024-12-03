@@ -14,3 +14,5 @@ class Solution:
                 if target>nums[m] and target<=nums[r]: l=m+1
                 else: r = m-1
         return False
+    
+    # search in roted
