@@ -17,3 +17,4 @@ class Solution:
                 nums[r] = temp
                 r-=1
             else: i+=1
+            # // set colour
