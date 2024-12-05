@@ -17,4 +17,4 @@ class Solution:
             forward.next = prev.next
             prev.next = forward
         return dummy.next
-    # reverse linked list
+    # reverse linked list python
