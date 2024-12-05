@@ -16,3 +16,5 @@ class Solution {
         else return dp[i] = nWays(i + 1, s);
     }
 }
+
+// Decode Ways
