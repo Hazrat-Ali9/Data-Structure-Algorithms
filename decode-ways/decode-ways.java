@@ -17,4 +17,4 @@ class Solution {
     }
 }
 
-// Decode Ways
+// Decode Ways java
