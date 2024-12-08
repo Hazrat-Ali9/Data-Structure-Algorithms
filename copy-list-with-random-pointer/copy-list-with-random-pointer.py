@@ -1,4 +1,4 @@
-/*
+# copy 
 // Definition for a Node.
 class Node {
     int val;
