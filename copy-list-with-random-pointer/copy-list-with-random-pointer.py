@@ -1,4 +1,4 @@
-# copy list with random
+# copy list with random pointer
 // Definition for a Node.
 class Node {
     int val;
