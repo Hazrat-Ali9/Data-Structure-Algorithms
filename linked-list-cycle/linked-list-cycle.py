@@ -12,3 +12,4 @@ class Solution:
             slow = slow.next
             if fast==slow: return True
         return False
+        # linked list
