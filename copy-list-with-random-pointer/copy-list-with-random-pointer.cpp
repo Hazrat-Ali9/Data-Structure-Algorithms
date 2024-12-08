@@ -51,3 +51,5 @@ public:
         return ans->next;  // Since first node is a dummy node
     }
 };
+
+// cooking list 
