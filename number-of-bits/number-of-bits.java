@@ -9,3 +9,5 @@ public class Solution {
         return cnt;
     }
 }
+
+// Number of bits
