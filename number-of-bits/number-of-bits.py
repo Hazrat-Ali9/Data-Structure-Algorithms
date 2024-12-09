@@ -5,3 +5,5 @@ class Solution:
             n = n & (n-1)
             cnt += 1
         return cnt
+
+        # number of bits
