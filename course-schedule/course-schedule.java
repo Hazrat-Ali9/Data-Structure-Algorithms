@@ -28,3 +28,5 @@ class Solution {
         return vis == numCourses;
     }
 }
+
+// course shedule
