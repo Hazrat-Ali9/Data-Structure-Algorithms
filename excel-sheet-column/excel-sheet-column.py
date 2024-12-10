@@ -6,3 +6,5 @@ class Solution:
             ans += (chr)((columnNumber%26) + ord('A'))
             columnNumber //= 26
         return ans[::-1]
+
+        # python
