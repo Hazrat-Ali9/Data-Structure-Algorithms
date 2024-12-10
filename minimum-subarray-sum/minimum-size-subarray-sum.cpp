@@ -13,4 +13,4 @@ public:
     }
 };
 
-// minimum size array
+// minimum size array sum
