@@ -8,3 +8,5 @@ class Solution:
                 sumOfWin -= nums[l]
                 l += 1
         return ans if ans != float('inf') else 0
+
+        # minimum sub array
