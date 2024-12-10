@@ -17,3 +17,5 @@ class Solution:
                 if inDeg[neighbor] == 0:
                     q.append(neighbor)
         return vis == numCourses
+
+        # course shedule
