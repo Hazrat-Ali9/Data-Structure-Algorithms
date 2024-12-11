@@ -9,3 +9,5 @@ class Solution:
         for i in range(26):
             if v[i]: return False
         return True
+
+        # valid anargram
