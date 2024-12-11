@@ -12,4 +12,4 @@ class Solution:
             fast = nums[fast]
         return slow
 
-        # find the duplicate number
+        # Find the duplicate number
