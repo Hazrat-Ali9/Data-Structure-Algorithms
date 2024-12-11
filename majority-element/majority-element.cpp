@@ -30,3 +30,4 @@ public:
         return ans;
     }
 };
+// majority element
