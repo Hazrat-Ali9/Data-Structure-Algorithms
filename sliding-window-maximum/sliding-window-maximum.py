@@ -12,3 +12,4 @@ class Solution:
             dq.append(i)
             ans.append(nums[dq[0]])
         return ans
+        # sliding maximum 
