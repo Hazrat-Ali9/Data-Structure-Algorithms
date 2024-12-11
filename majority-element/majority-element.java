@@ -29,3 +29,5 @@ class Solution {
         return ans;
     }
 }
+
+// majority element
