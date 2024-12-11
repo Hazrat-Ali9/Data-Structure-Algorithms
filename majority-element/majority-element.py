@@ -21,3 +21,5 @@ class Solution:
         if life1 > len(nums)//3: ans.append(candidate1)
         if life2 > len(nums)//3: ans.append(candidate2)
         return ans
+
+        # majority
