@@ -13,3 +13,5 @@ class Solution {
         return slow;
     }
 }
+
+// find the duplicate number
