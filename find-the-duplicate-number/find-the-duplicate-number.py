@@ -11,3 +11,5 @@ class Solution:
             slow = nums[slow]
             fast = nums[fast]
         return slow
+
+        # find the duplicate number
