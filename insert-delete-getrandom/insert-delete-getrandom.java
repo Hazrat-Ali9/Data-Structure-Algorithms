@@ -26,7 +26,7 @@ class RandomizedSet {
         return ls.get(new Random().nextInt(ls.size()));
     }
 }
-
+// insert delete getrandom
 /**
  * Your RandomizedSet object will be instantiated and called as such:
  * RandomizedSet obj = new RandomizedSet();
