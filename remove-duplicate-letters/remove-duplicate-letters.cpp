@@ -25,3 +25,5 @@ public:
         return ans;
     }
 };
+
+// remove duplicate letter
