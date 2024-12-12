@@ -7,3 +7,5 @@ class Solution:
                 if nums[i] > nums[j] and dp[i] <= dp[j]:
                     dp[i] = dp[j]+1
         return max(dp)
+
+        # incresing subsequence
