@@ -7,3 +7,5 @@ class Solution {
         return i==s.length() ? true : false;
     }
 }
+
+// Subsequence 
