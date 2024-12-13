@@ -8,3 +8,5 @@ class Solution:
                 num = num//2
             ans.append(cnt)
         return ans
+
+        # counting bits
