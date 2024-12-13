@@ -4,3 +4,5 @@ class Solution:
         for x in s: ans ^= ord(x)
         for x in t: ans ^= ord(x)
         return chr(ans)
+
+        # find the difference 
