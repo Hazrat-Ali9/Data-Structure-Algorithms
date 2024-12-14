@@ -8,3 +8,4 @@ class Solution:
                 s.pop()
             s.append(nums[i])
         return False
+        # pattern
