@@ -29,3 +29,5 @@ class Solution:
                     graph[a][b] = value * result
                     return graph[a][b]
         return 0.0
+
+        # evalute division
