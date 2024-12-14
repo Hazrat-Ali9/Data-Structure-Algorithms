@@ -6,3 +6,5 @@ class Solution:
                 pattern = s[:i] * (n//i)
                 if s == pattern: return True
         return False
+
+        # repeated substing
