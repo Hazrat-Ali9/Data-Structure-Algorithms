@@ -25,3 +25,5 @@ class Solution {
         return step;
     }
 }
+
+// k th smallest in lexigraphical java
