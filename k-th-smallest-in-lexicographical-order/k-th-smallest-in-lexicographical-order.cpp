@@ -26,3 +26,5 @@ public:
         return steps;
     }
 };
+
+// k th smallest in lexigraphical 
