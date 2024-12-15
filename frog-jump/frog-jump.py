@@ -14,3 +14,5 @@ class Solution:
                 ans = ans or self.f(dp, mp, stones, n, mp[stones[i]+k], k)
         dp[i][prevJump] = ans
         return ans
+
+        # frog jump 
