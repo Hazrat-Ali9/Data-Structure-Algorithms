@@ -14,3 +14,5 @@ class Solution:
             if flag:
                 stack.append(asteroid)
         return stack
+
+        # asteroid collision
