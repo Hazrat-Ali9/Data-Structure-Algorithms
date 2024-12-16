@@ -14,3 +14,5 @@ public:
         return contentChildren;
     }
 };
+
+// Assign cokies
