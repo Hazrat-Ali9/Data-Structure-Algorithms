@@ -9,3 +9,5 @@ class Solution {
         return l == letters.length ? letters[0] : letters[l];
     }
 }
+
+// Find the letter grather than target
