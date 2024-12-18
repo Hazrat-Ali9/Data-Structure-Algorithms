@@ -8,7 +8,7 @@ class Solution {
             minutes[i] = h*60 + m;
         }
 
-        // minimum time difference java
+        // Minimum time difference java
         Arrays.sort(minutes);
         int ans = Integer.MAX_VALUE;
         for(int i=0; i<minutes.length-1; i++) ans = Math.min(ans, minutes[i+1]-minutes[i]);
