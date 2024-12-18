@@ -13,4 +13,6 @@ public:
         for(int i=0; i<minutes.size()-1; i++) ans = min(ans, minutes[i+1]-minutes[i]);
         return min(ans, 24*60-minutes[minutes.size()-1]+minutes[0]);
     }
+
+    // minimum time difference 
 };
