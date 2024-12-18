@@ -7,3 +7,5 @@ class Solution:
                 cnt += 1
                 curr = x[1]
         return cnt
+
+        # maximum length of pair chain
