@@ -9,6 +9,7 @@ class Solution {
                 dfs(i, isConnected, vis);
             }
         }
+        // number of provinces
         return cnt;
     }
     void dfs(int node, int[][] isConnected, boolean[] vis){
