@@ -6,3 +6,4 @@ class Solution:
             smallest = min(smallest, arrays[i][0])
             biggest = max(biggest, arrays[i][-1])
         return ans
+        # maximum Distance 
