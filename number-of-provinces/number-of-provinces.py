@@ -7,6 +7,7 @@ class Solution:
             if not vis[i]:
                 cnt += 1
                 self.dfs(i, isConnected, vis)
+                # number of provinces
         return cnt
     def dfs(self, node, isConnected, vis):
         vis[node] = True
