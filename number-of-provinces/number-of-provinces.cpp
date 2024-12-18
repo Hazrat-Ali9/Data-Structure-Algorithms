@@ -10,6 +10,7 @@ public:
                 dfs(i, isConnected, vis);
             }
         }
+        // number of provinces
         return numbersOfComponents;
     }
     void dfs(int node, vector<vector<int>>&isConnected, vector<bool>&vis){
