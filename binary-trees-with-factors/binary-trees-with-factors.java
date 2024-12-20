@@ -15,3 +15,5 @@ class Solution {
         return (int)cnt;
     }
 }
+
+// binary trees with factors java
