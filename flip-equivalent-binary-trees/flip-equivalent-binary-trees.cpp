@@ -7,7 +7,7 @@ public:
         if (node1 && node2 && node1->val == node2->val) return true;
         return false;
     }
-
+    // flip equivalent binary tree
     bool flipEquiv(TreeNode* root1, TreeNode* root2) {
         // Initialize stack to store pairs of nodes
         stack<pair<TreeNode*, TreeNode*>> nodePairStack;
