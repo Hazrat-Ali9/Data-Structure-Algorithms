@@ -11,3 +11,5 @@ class Solution:
             dp[usedSong][currL] = total%mod
             return dp[usedSong][currL]
         return solve(0, 0)
+
+        # number of music playlists
