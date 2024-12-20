@@ -6,6 +6,7 @@ class Solution {
         for(int i=0; i<26; i++){
             if(cnt[i] > 0) pq.offer(new int[] {i+'a', cnt[i]});
         }
+        // recognize string
         var ans = new StringBuilder();
         while(!pq.isEmpty()){
             var first = pq.poll();
