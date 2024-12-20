@@ -9,6 +9,7 @@ class Solution {
                 adj.put(stop, route);
             }
         }
+        // bus routes 
         Queue<Integer> q = new LinkedList<>();
         Set<Integer> vis = new HashSet<>(routes.length);
         for(int route : adj.get(source)){
