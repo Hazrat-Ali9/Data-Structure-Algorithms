@@ -4,6 +4,7 @@ class Solution:
         dx = [1, -1, 0, 0]
         dy = [0, 0, 1, -1]
         q = deque()
+        # shortest bridge
         firstX = -1
         firstY = -1
         for i in range(n):
