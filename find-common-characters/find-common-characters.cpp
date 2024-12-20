@@ -13,6 +13,7 @@ public:
                 commonCharCnt[j] = min(commonCharCnt[j], currentCharCnt[j]);
             }
         }
+        // find common charater
         vector<string> ans;
         //COllect the common char to keep the minimum counts
         for(int i=0; i<26; i++){
