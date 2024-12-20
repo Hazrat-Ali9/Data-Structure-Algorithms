@@ -11,6 +11,7 @@ class Solution {
             merge(nums, l, m, r);
         }
     }
+    // sort an array java
     void merge(int[] nums, int l, int m, int r){
         if(l >= r) return;
         int s = l, e = m+1, n = r-l+1, k=0;
