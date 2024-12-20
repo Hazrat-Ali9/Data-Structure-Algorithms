@@ -8,3 +8,5 @@ class Solution:
                 if a > 0: a-=1
                 else: b += 1
         return a+b
+
+        # minimum add to make parentheses
