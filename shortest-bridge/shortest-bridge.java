@@ -14,6 +14,7 @@ class Solution {
                 }
             }
         }
+        // shortest bridge
         dfs(grid, firstX, firstY, n);
         int distance = 0;
         while(!q.isEmpty()){
