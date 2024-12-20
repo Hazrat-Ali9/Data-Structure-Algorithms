@@ -11,6 +11,8 @@ class Solution {
                 commonCharCnt[j] = Math.min(commonCharCnt[j], currentCharCnt[j]);
             }
         }
+
+        // find common charater
         List<String> ans = new ArrayList<>();
         for(int i=0; i<26; i++){
             for(int j=0; j<commonCharCnt[i]; j++) ans.add(String.valueOf((char)(i+'a')));
