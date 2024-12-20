@@ -6,6 +6,7 @@ class Solution {
             if(Character.isDigit(s.charAt(i))) size *= (s.charAt(i) - '0');
             else size++;
         }
+        # decoded string at index 
         for(int i=n-1; i>=0; i--){
             k %= size;
             if(k == 0 && Character.isLetter(s.charAt(i))) return String.valueOf(s.charAt(i));
