@@ -2,7 +2,7 @@ class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        
+        // sortest path in binary matrix
         if (grid[0][0] == 1) return -1;
         if (grid[0][0] == 0 && n == 1 && m == 1) return 1;
         
