@@ -11,6 +11,7 @@ class Solution {
                     return true;
                 }
             }
+            // Buddy string with java
             // Otherwise, if we swap any two characters, it will make the strings unequal.
             return false;
         }
