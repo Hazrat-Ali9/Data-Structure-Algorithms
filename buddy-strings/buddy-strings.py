@@ -7,6 +7,7 @@ class Solution:
                 freq[ord(ch) - ord('a')] += 1
                 if freq[ord(ch) - ord('a')] == 2: return True
             return False
+            # buddy string
         fIndex = -1
         sIndex = -1
         for i in range(len(s)):
