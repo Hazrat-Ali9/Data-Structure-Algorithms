@@ -8,6 +8,7 @@ class Solution {
                 else b++;
             }
         }
+        // make add to make parentheses
         return a+b;
     }
 }
