@@ -4,6 +4,7 @@ class Solution {
         if(n == 1) return 0;
         return bfs(graph);
     }
+    // Shortest path visiting all nodes
     int bfs(int[][] g){
         int n = g.length;
         int all = (1<<n)-1;
