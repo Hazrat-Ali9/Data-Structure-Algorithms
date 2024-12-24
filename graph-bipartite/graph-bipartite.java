@@ -9,6 +9,7 @@ class Solution {
         }
         return true;
     }
+    // Graph Bipartite
     boolean dfs(int src, int[][] graph, int[] color){
         Queue<Integer> q = new LinkedList<>();
         q.add(src);
