@@ -5,3 +5,5 @@ class Solution {
         return doubleStr.contains(goal);
     }
 }
+
+// Rotate String
