@@ -6,3 +6,4 @@ class Solution:
                 nums[i], nums[j] = nums[j], nums[i]
                 j += 1
         return nums
+        # sort array by party
