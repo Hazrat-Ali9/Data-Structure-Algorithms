@@ -12,6 +12,7 @@ class Solution {
                 if(mp.get(currCard+i)==0) mp.remove(currCard+i);
             }
         }
+        // Hand of Straights
         return true;
     }
 }
