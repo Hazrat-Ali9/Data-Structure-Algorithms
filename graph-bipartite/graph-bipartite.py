@@ -5,6 +5,7 @@ class Solution:
             if color[i] == -1:
                 if not self.dfs(i, graph, color): return False
         return True
+        # graph biparite
     def dfs(self, src, graph, color):
         q = deque()
         q.append(src)
