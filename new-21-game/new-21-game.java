@@ -8,6 +8,7 @@ class Solution {
             if(i < k) s += dp[i];
             if(i - maxPts >= 0 && i - maxPts < k) s-= dp[i - maxPts];
         }
+        // New Game 21 Java
         double ans = 0;
         for(int i=k; i<=n; i++) ans += dp[i];
         return ans;
