@@ -8,6 +8,7 @@ class Solution {
         }
         return ans;
     }
+    // Magic Squresin Grid 
     boolean isMagicSquare(int[][] grid, int r, int c){
         boolean[] seen = new boolean[10];
         for(int i=0; i<3; i++){
