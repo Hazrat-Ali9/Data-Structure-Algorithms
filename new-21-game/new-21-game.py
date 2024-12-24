@@ -10,3 +10,4 @@ class Solution:
             if i - maxPts >= 0 and i - maxPts < k:
                 s -= dp[i - maxPts]
         return sum(dp[k:])
+        # New 21 Game Python
