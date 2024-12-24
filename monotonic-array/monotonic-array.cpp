@@ -9,3 +9,4 @@ public:
         return cnt1==nums.size()-1 || cnt2==nums.size()-1;
     }
 };
+// Monotonic array
