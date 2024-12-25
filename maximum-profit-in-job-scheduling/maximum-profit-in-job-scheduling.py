@@ -16,6 +16,7 @@ class Solution:
         notPick = self.f(i+1, n, st, jobs, dp)
         dp[i] = max(pick, notPick)
         return dp[i]
+        # maximum profit in jobs
     def nextIndex(self, l, n, time, st):
         nxtIn = n
         r = n-1
