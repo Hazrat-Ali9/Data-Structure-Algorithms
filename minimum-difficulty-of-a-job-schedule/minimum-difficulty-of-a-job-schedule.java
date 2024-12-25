@@ -20,5 +20,6 @@ class Solution {
         }
         dp[i][d] = ans;
         return ans;
+        // minimum diffculty of a job 
     }
 }
