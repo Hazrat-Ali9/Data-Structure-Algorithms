@@ -9,3 +9,4 @@ class Solution:
             row, cnt = heapq.heappop(pq)
             ans.append(cnt)
         return ans
+        # The Weakest Row In Matrix 
