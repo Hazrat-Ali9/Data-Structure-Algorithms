@@ -13,6 +13,7 @@ class Solution {
                 taps++;
                 currEnd = nextEnd;
             }
+            //minimum numbers of taps
             nextEnd = Math.max(nextEnd, maxReach[i]);
         }
         return taps;
