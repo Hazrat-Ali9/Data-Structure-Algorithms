@@ -11,3 +11,4 @@ class Solution:
         self.maxTime = max(self.maxTime, time)
         for x in adj[curr]:
                 self.dfs(adj, informTime, x, time+informTime[curr])
+                # Time Needed TO Infrom all Empty
