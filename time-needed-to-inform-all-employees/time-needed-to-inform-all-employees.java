@@ -9,6 +9,7 @@ class Solution {
         dfs(adj, informTime, headID, 0);
         return maxTime;
     }
+    // Time Needed TO Infrom
     void dfs(ArrayList<ArrayList<Integer>> adj, int[] informTime, int curr, int time){
         maxTime = Math.max(maxTime, time);
         for(int x : adj.get(curr)) dfs(adj, informTime, x, time + informTime[curr]);
