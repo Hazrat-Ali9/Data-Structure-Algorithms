@@ -8,6 +8,7 @@ class SnapshotArray {
             historyRecords[i].put(0, 0);
         }
     }
+    // snap shot array
     public void set(int index, int val) {
         historyRecords[index].put(snapId, val);
     }
