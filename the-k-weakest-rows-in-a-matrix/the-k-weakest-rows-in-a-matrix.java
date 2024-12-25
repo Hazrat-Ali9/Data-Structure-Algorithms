@@ -8,6 +8,7 @@ class Solution {
             }
             pq.offer(new int[]{cnt, i});
         }
+        // The Weakest Row In Matrix 
         int[] ans = new int[k];
         for(int i=0; i<k; i++){
             int[] x = pq.poll();
