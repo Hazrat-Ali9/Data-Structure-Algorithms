@@ -9,3 +9,4 @@ class Solution:
             b >>= 1
             c >>= 1
         return ans
+        # // minimum flips to make a equal
