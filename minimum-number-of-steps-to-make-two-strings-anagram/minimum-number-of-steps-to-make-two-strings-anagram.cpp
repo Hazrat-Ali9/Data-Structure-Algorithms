@@ -8,3 +8,4 @@ class Solution:
         for i in range(26):
             ans += max(0, cnt[i])
         return ans
+        // minimum numbers of steps two string
