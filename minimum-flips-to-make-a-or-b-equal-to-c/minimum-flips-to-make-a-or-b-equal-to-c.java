@@ -11,5 +11,6 @@ class Solution {
             c >>= 1;
         }
         return ans;
+        // minimum flips to make a equal
     }
 }
