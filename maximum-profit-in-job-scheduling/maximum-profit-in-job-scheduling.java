@@ -7,6 +7,7 @@ class Solution {
             jobs[i][1] = endTime[i];
             jobs[i][2] = profit[i];
         }
+        // profit Scheding in jobs
         Arrays.sort(jobs, Comparator.comparingInt(a -> a[0]));
         Arrays.sort(startTime);
         int[] dp = new int[n];
