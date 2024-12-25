@@ -14,3 +14,4 @@ class Solution:
                 currEnd = nextEnd
             nextEnd = max(nextEnd, maxReach[i])
         return taps
+        # minimum numbers of taps to water to garden
