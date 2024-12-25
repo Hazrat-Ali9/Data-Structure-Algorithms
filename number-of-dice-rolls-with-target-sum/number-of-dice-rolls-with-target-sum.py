@@ -12,3 +12,4 @@ class Solution:
             s = (s + self.f(n-1, k, target-i, dp)) % self.mod
         dp[n][target] = s
         return dp[n][target]
+        # number of dice rolls with target
