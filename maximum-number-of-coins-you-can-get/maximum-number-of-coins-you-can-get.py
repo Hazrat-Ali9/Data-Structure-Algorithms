@@ -5,3 +5,4 @@ class Solution:
         for i in range(len(piles)//3, len(piles), 2):
             ans += piles[i]
         return ans
+        # maximum number of coins you can get 
