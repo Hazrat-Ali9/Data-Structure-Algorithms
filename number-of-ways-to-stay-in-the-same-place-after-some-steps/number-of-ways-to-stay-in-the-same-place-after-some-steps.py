@@ -13,3 +13,5 @@ class Solution:
             dp[curr][remain] = ans
             return ans
         return f(0, steps)
+
+        # number of ways to stay in same place steps
