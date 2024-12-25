@@ -8,6 +8,7 @@ class Solution {
         for(int[] row : dp) Arrays.fill(row, -1);
         return f(0, steps);
     }
+    // number of ways to stay in the after some
     int f(int curr, int remain){
         if(remain == 0){
             if(curr == 0) return 1;
