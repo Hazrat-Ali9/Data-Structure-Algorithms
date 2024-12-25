@@ -11,4 +11,5 @@ class Solution {
         }
         return ans;
     }
+    # maximum score after spliting
 }
