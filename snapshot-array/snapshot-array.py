@@ -10,6 +10,7 @@ class SnapshotArray:
     def snap(self) -> int:
         self.id += 1
         return self.id - 1
+        # snap shot array
 
     def get(self, index: int, snap_id: int) -> int:
         snap_index = bisect.bisect_right(self.history_records[index], [snap_id, 10 ** 9])
