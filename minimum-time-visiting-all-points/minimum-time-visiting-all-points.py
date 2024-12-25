@@ -9,3 +9,4 @@ class Solution {
         return ans;
     }
 }
+# minimum time visiting all point
