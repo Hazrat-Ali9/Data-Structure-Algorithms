@@ -6,6 +6,7 @@ class Solution {
         return Arrays.stream(nums).mapToInt(Integer::intValue).toArray();
     }
 }
+// Sort Integers by the numbers
 class CustomComparator implements Comparator<Integer>{
     private int findWeight(int num){
         int weight = 0;
