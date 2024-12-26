@@ -1,4 +1,4 @@
-
+// find in mountain array
 
 class Solution {
 public:
