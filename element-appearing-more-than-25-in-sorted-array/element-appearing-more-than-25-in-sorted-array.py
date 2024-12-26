@@ -6,3 +6,4 @@ class Solution:
             cnt[x] += 1
             if cnt[x] > target: return x
         return -1
+        # element appearing more than dorted array
