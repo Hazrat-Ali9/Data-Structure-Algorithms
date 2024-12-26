@@ -14,5 +14,6 @@ class Solution {
             }
         }
         return ans;
+        // Group the people given the size belong
     }
 }
