@@ -12,5 +12,6 @@ class Solution {
             cnt += (n - l);
         }
         return cnt;
+        // count negative numbers
     }
 }
