@@ -1,18 +1,5 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// maximum level sum of binary tree
+
 class Solution {
     public int maxLevelSum(TreeNode root) {
         int mxSum = Integer.MIN_VALUE, ans = 0, level = 0;
