@@ -16,4 +16,5 @@ class Solution {
         }
         return (int)((a+e+i+o+u)%mod);
     }
+    // count vowels permutation
 }
