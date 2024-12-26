@@ -10,3 +10,4 @@ class Solution:
                 ans.append(hashMap[groupSizes[i]])
                 hashMap[groupSizes[i]] = []
         return ans
+        # // Group the people given the size belong python
