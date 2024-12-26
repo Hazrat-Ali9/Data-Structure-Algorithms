@@ -7,3 +7,4 @@ class Solution:
             dp[a] = beforeA + 1
             ans = max(ans, dp[a])
         return ans
+        # //longest aritmetic subsequence difference python
