@@ -34,6 +34,7 @@ class UndergroundSystem {
             this.time = time;
         }
     }
+    // Design underground system
     class TravelInfo{
         int totalTime;
         int count;
