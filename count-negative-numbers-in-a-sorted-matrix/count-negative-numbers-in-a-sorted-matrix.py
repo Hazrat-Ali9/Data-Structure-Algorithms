@@ -10,3 +10,4 @@ class Solution:
                 else: l = m+1
             cnt += (n - l)
         return cnt
+        # count negative numbers
