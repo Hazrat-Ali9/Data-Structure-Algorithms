@@ -10,3 +10,5 @@ class Solution {
         return ans;
     }
 }
+
+// //longest aritmetic subsequence difference java
