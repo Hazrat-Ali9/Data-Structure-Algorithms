@@ -8,3 +8,4 @@ class Solution:
                 start += 1
             longestWin = max(longestWin, i-start)
         return longestWin
+        # longest sub array of 1st after one element
