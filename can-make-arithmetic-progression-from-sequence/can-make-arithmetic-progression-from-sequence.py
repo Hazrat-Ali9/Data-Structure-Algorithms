@@ -10,3 +10,4 @@ class Solution:
             if (arr[i] - mn) % diff != 0: return False
             s.add(arr[i])
         return len(s) == n;
+        #  // can make arithmetic progression 
