@@ -23,7 +23,7 @@ class Solution {
                 break;
             }
         }
-
+           // path with maximum probability
         return maxProb[end];
     }
 }
