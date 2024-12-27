@@ -10,3 +10,5 @@ class Solution:
                 streak = 1
             if streak==k or curr==mx: return curr
         return -1
+
+        # // find the winner of an array game
