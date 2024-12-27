@@ -10,6 +10,8 @@ class Solution {
             secondMax = Math.max(secondMax, a);
             secondMin = Math.min(secondMin, a);
         }
+// max dot product of two sub sequences
+
         if(firstMax<0 && secondMin>0) return firstMax*secondMin;
         if(secondMax<0 && firstMin>0) return secondMax*firstMin;
         int[][] dp = new int[nums1.length][nums2.length];
