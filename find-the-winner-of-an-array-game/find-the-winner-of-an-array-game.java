@@ -14,5 +14,6 @@ class Solution {
             if(streak==k || mx==curr) return curr;
         }
         return -1;
+        // find the winner of an array game
     }
 }
