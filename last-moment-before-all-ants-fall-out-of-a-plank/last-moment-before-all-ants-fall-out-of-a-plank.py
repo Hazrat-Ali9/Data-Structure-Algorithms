@@ -6,3 +6,4 @@ class Solution:
         for x in right:
             ans = max(ans, n-x)
         return ans
+        # last moment before all ants out of palnk
