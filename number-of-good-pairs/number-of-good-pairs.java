@@ -7,5 +7,6 @@ class Solution {
             if(a > 1) cnt += (a*(a-1))/2;
         }
         return cnt;
+        // numbers of pair
     }
 }
