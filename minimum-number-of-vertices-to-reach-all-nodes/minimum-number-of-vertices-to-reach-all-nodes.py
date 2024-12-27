@@ -5,4 +5,5 @@ class Solution:
         ans = []
         for i in range(0, n):
             if inDeg[i]==0: ans.append(i)
-        return ans
+        return ans 
+        # // minimum numbers of vertices reach
