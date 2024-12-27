@@ -7,3 +7,4 @@ class Solution:
                 f = x
             elif x>s: s = x
         return (f-1)*(s-1)
+        # maximum product of two elements
