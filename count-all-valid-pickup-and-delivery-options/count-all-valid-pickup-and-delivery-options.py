@@ -5,3 +5,4 @@ class Solution:
             cnt = (cnt*((places*(places-1))//2))%mod
             places -= 2
         return int(cnt)
+        # count all valid pickup and delivery
