@@ -7,5 +7,6 @@ class Solution {
             places -= 2;
         }
         return (int)cnt;
+        // count all valid pickup and delevery 
     }
 }
