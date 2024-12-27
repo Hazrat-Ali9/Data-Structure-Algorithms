@@ -12,5 +12,6 @@ class Solution {
             }
         }
         return true;
+         // cheak it is straight line
     }
 }
