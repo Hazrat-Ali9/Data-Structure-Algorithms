@@ -7,3 +7,4 @@ class Solution:
             if (x - x0) * (y1 - y0) != (y - y0) * (x1 - x0):
                 return False
         return True
+        # cheak if is it straigh line
