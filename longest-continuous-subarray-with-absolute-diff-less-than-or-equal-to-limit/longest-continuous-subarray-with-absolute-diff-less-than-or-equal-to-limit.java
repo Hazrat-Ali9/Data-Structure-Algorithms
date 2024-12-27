@@ -16,5 +16,6 @@ class Solution {
             j++;
         }
         return mxLen;
+        // longest continous subarray
     }
 }
