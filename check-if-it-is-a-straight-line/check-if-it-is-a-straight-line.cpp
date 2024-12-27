@@ -13,6 +13,6 @@ public:
             }
         }
         return true;
-       
+         // cheak it is straight line c++
     }
 };
