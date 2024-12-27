@@ -10,3 +10,4 @@ class Solution:
         if dp[i][j] != 0: return dp[i][j]
         dp[i][j] = max(nums1[i]*nums2[j]+self.f(i+1, j+1, nums1, nums2, dp), self.f(i+1, j, nums1, nums2, dp), self.f(i, j+1, nums1, nums2, dp))
         return dp[i][j]
+        # max dot product of two sub sequences
