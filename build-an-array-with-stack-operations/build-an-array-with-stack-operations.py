@@ -10,3 +10,4 @@ class Solution:
             ans.append("Push")
             i += 1
         return ans
+        # // Build an array with stack operations
