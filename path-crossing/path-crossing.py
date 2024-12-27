@@ -16,3 +16,4 @@ class Solution:
                 return True
             vis.add((x, y))
         return False
+        #  // path crossing python
