@@ -12,3 +12,5 @@ class Solution {
         return longestWin;
     }
 }
+
+// longest sub array of 1st after one element
