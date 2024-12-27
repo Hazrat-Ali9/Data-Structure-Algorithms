@@ -12,5 +12,6 @@ class Solution {
             }
         }
         return ans;
+        // minimum numbers of vertices reach
     }
 }
