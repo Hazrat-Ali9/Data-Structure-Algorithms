@@ -13,4 +13,5 @@ class Solution {
         }
         return ans;
     }
+    // Build an array with stack operations
 }
