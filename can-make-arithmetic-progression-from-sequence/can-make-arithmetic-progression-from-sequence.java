@@ -12,5 +12,6 @@ class Solution {
             s.add(arr[i]);
         }
         return s.size() == n;
+        // can make arithmetic progression 
     }
 }
