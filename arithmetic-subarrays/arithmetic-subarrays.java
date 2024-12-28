@@ -25,4 +25,5 @@ class Solution {
         }
         return true;
     }
+    // arithmetic sub array
 }
