@@ -15,3 +15,4 @@ class Solution:
             arr = nums[l[i] : r[i]+1]
             ans.append(check(arr))
         return ans
+    # arithmetic sub array
