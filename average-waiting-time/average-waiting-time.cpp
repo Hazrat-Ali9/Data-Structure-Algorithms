@@ -19,4 +19,5 @@ public:
             static_cast<double>(netWaitTime) / customers.size();
         return averageWaitTime;
     }
+    // average waiting time
 };
