@@ -9,3 +9,5 @@ class Solution {
         return ans;
     }
 }
+
+// Count number of homegenous
