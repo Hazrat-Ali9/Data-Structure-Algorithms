@@ -15,3 +15,5 @@ class Solution:
             ans = (ans + mp[x]) % mod
             mp[x] += 1
         return ans
+    
+    # count nice paris in array
