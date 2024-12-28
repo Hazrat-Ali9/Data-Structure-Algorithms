@@ -13,3 +13,4 @@ class Solution:
                 j+=1
                 y=0
         return i==n and j==m
+    # cheak if two string arrays
