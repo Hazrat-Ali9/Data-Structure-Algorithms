@@ -11,3 +11,5 @@ class Solution {
         return ans;
     }
 }
+
+# calculate money
