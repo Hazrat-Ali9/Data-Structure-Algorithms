@@ -10,7 +10,7 @@ class ParkingSystem {
         }
         return false;
     }
-}    // design parking system
+}    // Design parking system
 
 /**
  * Your ParkingSystem object will be instantiated and called as such:
