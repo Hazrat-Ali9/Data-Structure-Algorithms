@@ -24,5 +24,6 @@ class Solution {
         }
         // Step 4: Return result
         return minLen == n ? -1 : minLen;
+        // make sum divisiable by java
     }
 }
