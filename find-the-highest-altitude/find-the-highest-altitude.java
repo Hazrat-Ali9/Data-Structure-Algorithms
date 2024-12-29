@@ -7,4 +7,5 @@ class Solution {
         }
         return mxAlt;
     }
+    // find the highest altitude
 }
