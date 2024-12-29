@@ -16,4 +16,5 @@ class Solution {
         }
         return big*sBig - small*sSmall;
     }
+    // maximum product differneces
 }
