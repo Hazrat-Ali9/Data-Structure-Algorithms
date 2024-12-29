@@ -5,3 +5,4 @@ class Solution:
             curr = nums[i][i]
             ans.append("1" if curr=="0" else "0")
         return "".join(ans)
+    # find the binary string
