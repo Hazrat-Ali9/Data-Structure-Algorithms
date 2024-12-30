@@ -11,7 +11,7 @@ class Solution {
     public int minDays(int[][] grid) {
         int rows = grid.length;
         int cols = grid[0].length;
-
+          // minimum nuber if days to disconnect
         // Count initial islands
         int initialIslandCount = countIslands(grid);
 
