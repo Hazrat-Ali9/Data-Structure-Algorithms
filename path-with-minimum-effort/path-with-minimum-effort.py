@@ -15,3 +15,4 @@ class Solution:
                 heapq.heappush(pq, (abs(heights[i][j] - heights[row][col]), row, col))
             heights[i][j] = -1
         return ans
+    # // path with minimum effort
