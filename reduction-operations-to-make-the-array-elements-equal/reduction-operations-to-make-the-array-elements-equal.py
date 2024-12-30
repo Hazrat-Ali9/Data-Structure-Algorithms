@@ -6,3 +6,4 @@ class Solution:
             if nums[i] != nums[i-1]: up+=1
             cnt += up
         return cnt
+    # redution opertion to make the array
