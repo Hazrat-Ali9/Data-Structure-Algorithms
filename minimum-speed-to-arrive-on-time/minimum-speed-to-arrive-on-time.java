@@ -10,6 +10,7 @@ class Solution {
             else l = m+1;
         }
         return minSpeed;
+        // minimum speed to arrive on time
     }
     double timeRequired(int[] dist, int speed){
         double time = 0.0;
