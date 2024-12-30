@@ -19,5 +19,6 @@ class Solution {
             heights[i][j] = -1;
         }
         return ans;
+        // path with minimum effort
     }
 }
