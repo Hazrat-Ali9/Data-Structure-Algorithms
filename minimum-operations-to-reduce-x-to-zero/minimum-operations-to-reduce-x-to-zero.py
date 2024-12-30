@@ -10,3 +10,4 @@ class Solution:
             if currSum == totalSum-x: length = max(length, r-l+1)
             r += 1
         return -1 if length==-1 else len(nums)-length
+    # minimum opertions to reduce
