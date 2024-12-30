@@ -6,3 +6,4 @@ class Solution {
         return ans;
     }
 }
+// minimum maximum pair in sum
