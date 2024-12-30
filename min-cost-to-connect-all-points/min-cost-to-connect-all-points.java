@@ -25,4 +25,5 @@ class Solution {
         }
         return ans;
     }
+    // min cost to connect all point
 }
