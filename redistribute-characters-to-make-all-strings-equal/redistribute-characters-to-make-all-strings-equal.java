@@ -9,5 +9,6 @@ class Solution {
             if(val % n != 0) return false;
         }
         return true;
+        // redistribute charaters to make all strings
     }
 }
