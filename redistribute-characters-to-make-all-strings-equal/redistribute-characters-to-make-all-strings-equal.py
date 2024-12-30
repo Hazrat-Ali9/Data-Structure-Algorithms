@@ -9,3 +9,4 @@ class Solution:
             if x % n != 0:
                 return False
         return True
+    # redistribute charaters to make all strings
