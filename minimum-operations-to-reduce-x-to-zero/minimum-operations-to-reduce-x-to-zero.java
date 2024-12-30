@@ -10,4 +10,5 @@ class Solution {
         }
         return len==-1 ? -1 : nums.length-len;
     }
+    // minimum operations to reduce
 }
