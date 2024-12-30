@@ -7,5 +7,6 @@ class Solution {
             cnt += up;
         }
         return cnt;
+        // redution opertion to make the array
     }
 }
