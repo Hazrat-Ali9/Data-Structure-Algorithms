@@ -11,3 +11,4 @@ class Solution:
                 freq[i] = max(0, freq[i+1]-1)
                 ans += (tmp-freq[i])
         return ans
+    # minimum deltions to make 
