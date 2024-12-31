@@ -11,3 +11,4 @@ class Solution:
             average = subArraySum // (2*k+1)
             avg[i] = average
         return avg
+    # // radius sub avengers java
