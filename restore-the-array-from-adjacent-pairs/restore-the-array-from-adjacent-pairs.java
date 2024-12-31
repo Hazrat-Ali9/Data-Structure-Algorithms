@@ -22,4 +22,5 @@ class Solution {
             if(nei != prev) dfs(nei, node, ans, i+1);
         }
     }
+    // restore the array adjacent
 }
