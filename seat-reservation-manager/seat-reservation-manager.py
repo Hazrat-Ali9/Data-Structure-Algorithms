@@ -11,7 +11,4 @@ class SeatManager:
         heapq.heappush(self.pq, seatNumber)
 
 
-# Your SeatManager object will be instantiated and called as such:
-# obj = SeatManager(n)
-# param_1 = obj.reserve()
-# obj.unreserve(seatNumber)
+# Seat Reservation manager
