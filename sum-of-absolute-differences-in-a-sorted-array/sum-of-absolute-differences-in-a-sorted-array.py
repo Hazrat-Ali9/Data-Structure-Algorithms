@@ -15,3 +15,4 @@ class Solution:
             ans.append(leftTotal+rightTotal)
             leftSum += nums[i]
         return ans
+    # sum of absoulute differences
