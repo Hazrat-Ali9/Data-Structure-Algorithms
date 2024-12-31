@@ -5,4 +5,5 @@ class Solution {
         for(int i=0; i<original.length; i++) ans[i/n][i%n] = original[i];
         return ans;
     }
+    // convert 1d array to 2d Array
 }
