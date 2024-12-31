@@ -17,5 +17,6 @@ public:
             leftSum += nums[i];
         }
         return ans;
+        // sum different absolute
     }
 };
