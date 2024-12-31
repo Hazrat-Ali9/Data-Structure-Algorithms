@@ -16,3 +16,4 @@ class Solution:
         ans = []
         dfs(root, None, ans)
         return ans
+    # restore the array adjacent 
