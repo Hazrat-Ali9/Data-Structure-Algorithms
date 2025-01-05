@@ -11,3 +11,4 @@ public:
         return (stackSize + 1) / 2;
     }
 };
+// minimum number of swap to make the string balanced
