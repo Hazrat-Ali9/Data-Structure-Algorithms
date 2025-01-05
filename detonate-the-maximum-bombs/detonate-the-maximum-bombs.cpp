@@ -35,4 +35,5 @@ public:
             if(!vis[graph[i][j]]) dfs(graph, vis, cnt, graph[i][j]);
         }
     }
+    // detonate the maximum bomb
 };
