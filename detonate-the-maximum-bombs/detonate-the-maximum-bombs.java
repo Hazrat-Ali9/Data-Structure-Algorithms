@@ -19,6 +19,7 @@ class Solution {
                 }
             }
         }
+        // // detonate the maximum bomb
         int ans = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
             int[] cnt = new int[1];
