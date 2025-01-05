@@ -13,5 +13,6 @@ public:
             }
         }
         return ans;
+        // number of laser beams in a bank
     }
 };
