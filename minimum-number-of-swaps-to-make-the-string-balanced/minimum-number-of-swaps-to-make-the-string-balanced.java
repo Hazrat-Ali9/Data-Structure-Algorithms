@@ -10,5 +10,6 @@ class Solution {
             }
         }
         return (cnt + 1)/2;
+        //minimum number of swap to make the string balanced
     }
 }
