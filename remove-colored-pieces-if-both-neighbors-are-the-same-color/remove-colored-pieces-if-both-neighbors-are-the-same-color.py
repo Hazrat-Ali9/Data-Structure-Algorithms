@@ -7,3 +7,4 @@ class Solution:
                     a+=1
                 else: b+=1
         return a>b
+    # Remove coloured pices if neghbors are the same colour
