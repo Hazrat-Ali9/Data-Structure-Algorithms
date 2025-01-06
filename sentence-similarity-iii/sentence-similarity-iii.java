@@ -10,4 +10,5 @@ class Solution {
         }
         return r1 < l;
     }
+    // sentence similarity in java
 }
