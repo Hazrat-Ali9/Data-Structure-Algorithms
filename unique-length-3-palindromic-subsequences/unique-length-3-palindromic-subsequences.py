@@ -9,3 +9,4 @@ class Solution:
                 between.add(s[k])
             ans += len(between)
         return ans
+    # unique Length palindrome 
