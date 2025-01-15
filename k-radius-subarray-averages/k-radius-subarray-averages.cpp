@@ -13,5 +13,6 @@ public:
             avg[i] = average;
         }
         return avg;
+        // K radius sub array
     }
 };
