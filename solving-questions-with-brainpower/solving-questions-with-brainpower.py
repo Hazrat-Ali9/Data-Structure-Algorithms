@@ -9,3 +9,4 @@ class Solution:
         leaveIt = self.solve(index+1, questions, dp)
         dp[index] = max(takeIt, leaveIt)
         return dp[index]
+    # Solving Question with Brain Power 
