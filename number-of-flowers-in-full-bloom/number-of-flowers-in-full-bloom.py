@@ -12,3 +12,4 @@ class Solution:
             while pq and pq[0] < person: heapq.heappop(pq)
             mp[person] = len(pq)
         return [mp[x] for x in people]
+    # numbers of flowers in full bloom
