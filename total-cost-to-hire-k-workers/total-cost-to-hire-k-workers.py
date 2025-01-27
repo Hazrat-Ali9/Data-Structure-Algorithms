@@ -19,3 +19,4 @@ class Solution:
                 heapq.heappop(pq2)
             k -= 1
         return ans
+    # total cost to hire k worker
