@@ -4,4 +4,4 @@
 
 # Data Structure & Algorithms.
 
-# Resource Collected : GOOGLE
+# University at DSA @ Algo 
