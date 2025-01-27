@@ -21,3 +21,4 @@ class Solution {
         return ans;
     }
 }
+// total cost to hire k worker
