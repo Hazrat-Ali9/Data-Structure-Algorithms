@@ -32,3 +32,4 @@ class Solution {
         return ans;
     }
 }
+// number of incresing paths in grid java
