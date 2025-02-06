@@ -10,4 +10,4 @@ public class Solution {
     }
 }
 
-// Number of bits
+// Number of bits java
