@@ -6,4 +6,4 @@ class Solution:
             cnt += 1
         return cnt
 
-        # number of bits
+        # Number of bits
