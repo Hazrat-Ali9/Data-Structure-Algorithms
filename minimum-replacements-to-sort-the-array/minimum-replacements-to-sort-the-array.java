@@ -9,5 +9,6 @@ class Solution {
             nums[i] = nums[i]/(int)numElement;
         }
         return ans;
+        // minimum replacement to sort the array 
     }
 }
