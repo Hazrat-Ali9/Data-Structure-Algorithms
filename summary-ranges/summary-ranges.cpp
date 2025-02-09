@@ -4,7 +4,7 @@ public:
         vector<string> ranges;
         for(int i = 0; i<nums.size(); i++){
             int start = nums[i];
-            // Keep iterating until the next element is one more than the current element.
+
             while (i + 1 < nums.size() && nums[i] + 1 == nums[i + 1]) {
                 i++;
             }
