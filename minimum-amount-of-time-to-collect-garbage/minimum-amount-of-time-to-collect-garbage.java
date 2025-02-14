@@ -12,5 +12,6 @@ class Solution {
             ans += (garbageLastPos.getOrDefault(c, 0) == 0 ? 0 : travel[garbageLastPos.get(c)-1]);
         }
         return ans;
+        // Minumum amount of time to collect garbage
     }
 }
