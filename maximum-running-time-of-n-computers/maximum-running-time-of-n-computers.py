@@ -8,4 +8,4 @@ class Solution:
             if extra//n >= target: l = target
             else: r = target-1
         return l
-    // Maximum running time of n computers
+    # Maximum running time of n computers
