@@ -12,5 +12,5 @@ class Solution {
         }
         return l;
     }
-    // Maximum running time of n cmputers
+    //  Maximum running time of n computers
 }
