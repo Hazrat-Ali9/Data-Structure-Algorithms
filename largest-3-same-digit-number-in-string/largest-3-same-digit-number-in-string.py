@@ -5,3 +5,4 @@ class Solution:
             if num[i] == num[i+1] == num[i+2]:
                 mxDigit = max(mxDigit, num[i])
         return '' if mxDigit==' ' else mxDigit*3
+    # Largest 3 same digit number in string 
