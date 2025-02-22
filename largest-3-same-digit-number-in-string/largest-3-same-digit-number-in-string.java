@@ -9,3 +9,5 @@ class Solution {
         return mxDigit==' ' ? "" : new String(new char[]{mxDigit, mxDigit, mxDigit});
     }
 }
+
+// Largest 3 same digit number in string 
