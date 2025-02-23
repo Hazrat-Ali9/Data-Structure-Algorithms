@@ -6,3 +6,5 @@ public:
         return pref;
     }
 };
+
+// find the origginal array of prefix
