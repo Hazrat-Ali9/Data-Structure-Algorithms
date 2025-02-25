@@ -14,5 +14,6 @@ public:
         sort(winner.begin(), winner.end());
         sort(loser.begin(), loser.end());
         return {winner, loser};
+        # find players with zero one losses
     }
 };
