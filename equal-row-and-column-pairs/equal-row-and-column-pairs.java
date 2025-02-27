@@ -14,5 +14,6 @@ class Solution {
             }
         }
         return cnt;
+        // equal row and column paris
     }
 }
