@@ -7,3 +7,5 @@ class Solution:
             if i >= one: dp[i] += dp[i-one]
             dp[i] %= mod
         return sum(dp[low : high+1]) % mod
+    
+    #  // count ways to build good strings
