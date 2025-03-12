@@ -4,6 +4,7 @@ class Solution {
         dp.put(-1, true);
         return f(nums.length-1, nums, dp);
     }
+    // check if there is valid partition for the array.
     boolean f(int i, int[] nums, Map<Integer, Boolean> dp){
         if(dp.containsKey(i)) return dp.get(i);
         boolean ans = false;
