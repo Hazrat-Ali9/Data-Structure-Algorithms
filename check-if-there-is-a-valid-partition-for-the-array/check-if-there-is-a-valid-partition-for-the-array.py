@@ -10,3 +10,4 @@ class Solution:
             dp[i] = ans
             return ans
         return f(len(nums)-1)
+    # check if there is valid partition for the array.
