@@ -6,3 +6,5 @@ class Solution {
         return sentence.charAt(0) == sentence.charAt(sentence.length()-1);
     }
 }
+
+// Circular Sentence 
