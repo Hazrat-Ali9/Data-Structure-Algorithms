@@ -10,6 +10,7 @@ class Solution {
                 earliestHour = i+1;
             }
         }
+        // minimum penalty for a shop
         return earliestHour;
     }
 }
