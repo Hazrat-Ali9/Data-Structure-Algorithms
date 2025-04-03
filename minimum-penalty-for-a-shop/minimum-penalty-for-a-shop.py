@@ -8,3 +8,4 @@ class Solution:
                 minPenalty = currPenalty
                 earliestHour = i+1
         return earliestHour
+    # minimum penalty for shop
