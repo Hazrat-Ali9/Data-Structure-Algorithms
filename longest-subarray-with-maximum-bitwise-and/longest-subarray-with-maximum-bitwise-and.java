@@ -11,5 +11,6 @@ class Solution {
             ans = Math.max(ans, currStreak);
         }
         return ans;
+        // Longest Subarray with maximum bitwise 
     }
 }
