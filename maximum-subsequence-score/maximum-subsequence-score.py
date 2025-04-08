@@ -13,3 +13,4 @@ class Solution:
             heapq.heappush(pq, vp[i][0])
             ans = max(ans, topKsum*vp[i][1])
         return ans
+    # Maximum Subsequence Score
