@@ -6,3 +6,4 @@ class Solution:
                 j+=1
             i += 1
         return len(t)-j
+        # append Charactes to string to make subsequences
