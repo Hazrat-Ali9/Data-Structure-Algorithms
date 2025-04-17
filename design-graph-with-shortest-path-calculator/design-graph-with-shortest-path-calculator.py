@@ -26,7 +26,4 @@ class Graph:
         return -1
 
 
-# Your Graph object will be instantiated and called as such:
-# obj = Graph(n, edges)
-# obj.addEdge(edge)
-# param_2 = obj.shortestPath(node1,node2)
+# // Design Graph with Shortest Path Calculator
