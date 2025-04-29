@@ -6,3 +6,4 @@ class Solution:
             if cnt ==1: return -1
             ans += ceil(cnt/3)
         return ans
+        // Minimum number of operation to make array empty
