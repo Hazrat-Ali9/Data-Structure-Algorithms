@@ -8,3 +8,5 @@ class Solution {
         return cnt;
     }
 }
+
+// Number of Scnior citzens 
