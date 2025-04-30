@@ -5,3 +5,5 @@ class Solution:
             age = int(s[11:13])
             if age > 60: cnt+=1
         return cnt
+    
+    # Number of Scnior citzens 
