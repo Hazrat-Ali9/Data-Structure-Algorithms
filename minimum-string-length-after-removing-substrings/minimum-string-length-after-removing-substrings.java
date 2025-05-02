@@ -7,3 +7,4 @@ class Solution {
         return s.length();
     }
 }
+// minimum string length after removing sub strings
