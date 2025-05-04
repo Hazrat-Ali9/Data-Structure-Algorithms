@@ -7,3 +7,5 @@ class Solution {
         return cnt;
     }
 }
+
+// minimum number of changes to make binary string beautiful
