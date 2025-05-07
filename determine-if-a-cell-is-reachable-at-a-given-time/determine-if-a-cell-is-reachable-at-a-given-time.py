@@ -3,4 +3,4 @@ class Solution:
         width, height = abs(sx-fx), abs(sy-fy)
         if width==0 and height==0 and t==1: return False
         return t>=max(width, height)
-    # 
+    # Detemine if a cell is rechable at a given time
