@@ -6,3 +6,5 @@ public:
         return t>=max(width, hight);
     }
 };
+
+// Detemine if a cell is rechable at a given time
